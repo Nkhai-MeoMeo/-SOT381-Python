@@ -1,0 +1,9 @@
+x = 100
+x -= 25
+print("Sau x-= 25: ", x)
+x *= 2
+print("Sau x *= 2: ", x)
+x /= 5
+print("Sau x /= 5: ", x)
+x += 10
+print("Sau x += 10: ", x)
